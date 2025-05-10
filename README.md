@@ -76,9 +76,9 @@ This repository includes all the necessary resources and tools you need for this
 3. **Track your progress**: Follow the roadmap and complete the daily tasks. Feel free to use Git branches to experiment with solutions.
 4. **Commit your progress**:
 ```bash
-git add .
-git commit -m "Completed Day X"
-git push origin main
+    git add .
+    git commit -m "Completed Day X"
+    git push origin main
 
 ### Contributing
 Feel free to fork this repository and contribute by adding more projects, exercises, or improvements to the existing material. If you encounter any bugs or have suggestions for improvements, open an issue.
